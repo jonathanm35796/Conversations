@@ -1,0 +1,29 @@
+{
+  "last_optimization": "2025-02-12T18:05:14.003346",
+  "power_plan": "8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c",
+  "gpu_settings": {
+    "PowerMizerLevel": 1,
+    "PowerMizerLevelAC": 1,
+    "OptimizationMode": 2,
+    "PerfLevelSrc": 2,
+    "PreferredGPU": 1,
+    "EnableOptimus": 0,
+    "EnableWhisperMode": 0
+  },
+  "display_settings": {
+    "PrimaryPushBufferDuration": 0,
+    "DynamicRefreshRate": 0,
+    "PrimaryDisplayRefreshRate": 120
+  },
+  "cpu_settings": {
+    "AttributeValue": 100
+  },
+  "memory_settings": {
+    "LargeSystemCache": 1,
+    "SystemCacheDirtyPageThreshold": 60
+  },
+  "environment_variables": {
+    "CUDA_VISIBLE_DEVICES": "0",
+    "NVIDIA_GPU": "1"
+  }
+}
